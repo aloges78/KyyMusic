@@ -62,7 +62,7 @@
         "DURATION_LIMIT": {
             "description": "diisi, jangan ubah ini!!",
             "required": true,
-            "value": "3600"
+            "value": "360000"
         },
         "BOT_TOKEN": {
             "description": "isi dengan token bot Anda dapatkan dari @BotFather di telegram",
@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya ato di /skip",
-            "value": "https://github.com/muhammadrizky16/KyyMusic",
+            "value": "https://github.com/aloges78/KyyMusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
